@@ -1,4 +1,5 @@
 # Authentication and Testing Sprint Challenge
+web-sprint-challenge-authentication-and-testing
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
